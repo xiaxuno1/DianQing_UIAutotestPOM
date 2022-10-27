@@ -1,0 +1,198 @@
+1659339521398	geckodriver	INFO	Listening on 127.0.0.1:29387
+1659339524477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileD65d8j"
+1659339525692	Marionette	INFO	Marionette enabled
+1659339525703	Marionette	INFO	Listening on port 29397
+WebDriver BiDi listening on ws://localhost:29388
+Read port: 29397
+1659339526035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileD65d8j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29388/devtools/browser/0f050dbf-6eb3-467f-97ea-8c7296804d5a
+1659339528904	Marionette	INFO	Stopped listening on port 29397
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1659339871724	geckodriver	INFO	Listening on 127.0.0.1:29469
+1659339874742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilelctepw"
+1659339875354	Marionette	INFO	Marionette enabled
+1659339875363	Marionette	INFO	Listening on port 29479
+WebDriver BiDi listening on ws://localhost:29470
+Read port: 29479
+1659339875687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilelctepw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29470/devtools/browser/12f6dee1-3d9a-4015-b6da-65e1ee9c8f59
+1659339878391	Marionette	INFO	Stopped listening on port 29479
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1659341162397	geckodriver	INFO	Listening on 127.0.0.1:29671
+1659341165416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile2rbY3h"
+1659341165991	Marionette	INFO	Marionette enabled
+1659341166000	Marionette	INFO	Listening on port 29681
+WebDriver BiDi listening on ws://localhost:29672
+Read port: 29681
+1659341166289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile2rbY3h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29672/devtools/browser/a88327ea-b690-438d-932a-ec45a8d534b2
+1659341169095	Marionette	INFO	Stopped listening on port 29681
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 9900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659341223861	geckodriver	INFO	Listening on 127.0.0.1:29695
+1659341226888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilegCadfZ"
+1659341227454	Marionette	INFO	Marionette enabled
+1659341227460	Marionette	INFO	Listening on port 29705
+WebDriver BiDi listening on ws://localhost:29696
+Read port: 29705
+1659341227737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilegCadfZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29696/devtools/browser/f9341118-923b-4a70-af41-1fb86122ddc4
+1659341230246	Marionette	INFO	Stopped listening on port 29705
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1659341297014	geckodriver	INFO	Listening on 127.0.0.1:29727
+1659341300023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilefWeozu"
+1659341300640	Marionette	INFO	Marionette enabled
+1659341300649	Marionette	INFO	Listening on port 29739
+WebDriver BiDi listening on ws://localhost:29728
+Read port: 29739
+1659341300939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilefWeozu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29728/devtools/browser/ad192f48-c183-4c77-a435-78bfd732b8dd
+1659341303518	Marionette	INFO	Stopped listening on port 29739
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1659341337500	geckodriver	INFO	Listening on 127.0.0.1:29761
+1659341340612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29762" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileqMxXQJ"
+1659341341442	Marionette	INFO	Marionette enabled
+1659341341450	Marionette	INFO	Listening on port 29772
+WebDriver BiDi listening on ws://localhost:29762
+Read port: 29772
+1659341341728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileqMxXQJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29762/devtools/browser/728e8449-a779-4878-b39e-979113244c7e
+1659341344170	Marionette	INFO	Stopped listening on port 29772
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1659341432686	geckodriver	INFO	Listening on 127.0.0.1:29791
+1659341435701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29792" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile2iP6H5"
+1659341436299	Marionette	INFO	Marionette enabled
+1659341436307	Marionette	INFO	Listening on port 29801
+WebDriver BiDi listening on ws://localhost:29792
+Read port: 29801
+1659341436583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile2iP6H5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29792/devtools/browser/82d80bbe-13b8-4ef5-a15d-eb6bfbcce710
+1659341439301	Marionette	INFO	Stopped listening on port 29801
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1659341503092	geckodriver	INFO	Listening on 127.0.0.1:29821
+1659341506123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileJ9WDue"
+1659341506684	Marionette	INFO	Marionette enabled
+1659341506694	Marionette	INFO	Listening on port 29831
+WebDriver BiDi listening on ws://localhost:29822
+Read port: 29831
+1659341506994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileJ9WDue\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29822/devtools/browser/24abc14c-ad73-4220-8993-33b17dffb315
+1659341509590	Marionette	INFO	Stopped listening on port 29831
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1659341549217	geckodriver	INFO	Listening on 127.0.0.1:29855
+1659341552236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29856" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileAyYSAt"
+1659341552773	Marionette	INFO	Marionette enabled
+1659341552782	Marionette	INFO	Listening on port 29865
+WebDriver BiDi listening on ws://localhost:29856
+Read port: 29865
+1659341553053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileAyYSAt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29856/devtools/browser/cf7c4872-2baf-48ce-b060-b0fe53fcc8db
+1659341555713	Marionette	INFO	Stopped listening on port 29865
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1659341668193	geckodriver	INFO	Listening on 127.0.0.1:29888
+1659341671219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiledQffL5"
+1659341671819	Marionette	INFO	Marionette enabled
+1659341671829	Marionette	INFO	Listening on port 29899
+WebDriver BiDi listening on ws://localhost:29889
+Read port: 29899
+1659341672118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiledQffL5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29889/devtools/browser/85db3c05-6e52-4d4c-a415-03abdadb8cf4
+1659341674693	Marionette	INFO	Stopped listening on port 29899
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1659341776892	geckodriver	INFO	Listening on 127.0.0.1:29923
+1659341779920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileg08uF1"
+1659341780516	Marionette	INFO	Marionette enabled
+1659341780528	Marionette	INFO	Listening on port 29933
+WebDriver BiDi listening on ws://localhost:29924
+Read port: 29933
+1659341780816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileg08uF1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29924/devtools/browser/2130b9ba-5376-45fb-a33a-e74cf9a6a859
+1659341783569	Marionette	INFO	Stopped listening on port 29933
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 11736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659341830604	geckodriver	INFO	Listening on 127.0.0.1:29947
+1659341833671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29948" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileTwdZAU"
+1659341834900	Marionette	INFO	Marionette enabled
+1659341834907	Marionette	INFO	Listening on port 29957
+WebDriver BiDi listening on ws://localhost:29948
+Read port: 29957
+1659341835213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileTwdZAU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29948/devtools/browser/fd6c75fd-4a56-42d1-ae32-e0c9d404c0a9
+1659341837865	Marionette	INFO	Stopped listening on port 29957
+1659341947706	geckodriver	INFO	Listening on 127.0.0.1:29984
+1659341950732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileCTcLkS"
+1659341952823	Marionette	INFO	Marionette enabled
+1659341952831	Marionette	INFO	Listening on port 29994
+WebDriver BiDi listening on ws://localhost:29985
+Read port: 29994
+1659341953109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileCTcLkS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29985/devtools/browser/4bd2743b-41c9-4e35-826e-9efee569aa12
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1659404794253	Marionette	INFO	Stopped listening on port 29994
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+on port 30098
+WebDriver BiDi listening on ws://localhost:30088
+Read port: 30098
+1659342146816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile8V4Xiu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:30088/devtools/browser/4013e63f-ee5a-4944-84f2-f4164cb2c363
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1659342162938	Marionette	INFO	Stopped listening on port 30098
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659342241226	geckodriver	INFO	Listening on 127.0.0.1:30145
+1659342244231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "30146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileS2kaJS"
+1659342244821	Marionette	INFO	Marionette enabled
+1659342244831	Marionette	INFO	Listening on port 30155
+WebDriver BiDi listening on ws://localhost:30146
+Read port: 30155
+1659342245113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileS2kaJS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:30146/devtools/browser/4f1c5753-d1ad-4aac-8645-0e3f258fab65
+1659342354667	Marionette	INFO	Stopped listening on port 30155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15092, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1659363233472	geckodriver	INFO	Listening on 127.0.0.1:33179
+1659363236480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "33180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilerqDtui"
+1659363237271	Marionette	INFO	Marionette enabled
+1659363237279	Marionette	INFO	Listening on port 33190
+WebDriver BiDi listening on ws://localhost:33180
+Read port: 33190
+1659363237671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilerqDtui\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33180/devtools/browser/a58adf46-b7e8-4cbf-bd34-b404593b0739
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://183.221.24.60:8000"
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://183.221.24.60:8000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://183.221.24.60:8000"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659363251162	Marionette	INFO	Stopped listening on port 33190

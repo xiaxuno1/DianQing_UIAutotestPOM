@@ -1,0 +1,10 @@
+/venv
+/.idea
+/Base/__pycache__
+/Common/__pycache__
+/log
+/PageObject/__pycache__
+/Reporter
+/TestCases/__pycache__
+/TestCases/geckodriver.log
+/TestCases/*.log
